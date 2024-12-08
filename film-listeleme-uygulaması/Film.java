@@ -1,4 +1,3 @@
-package java_odev_IV;
 
 public class Film {
 	private String filmAdi;
