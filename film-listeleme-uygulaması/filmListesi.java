@@ -1,5 +1,3 @@
-package java_odev_IV;
-
 import java.util.ArrayList;
 
 public class filmListesi {
