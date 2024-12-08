@@ -1,4 +1,3 @@
-package java_odev_IV;
 
 import java.util.Scanner;
 
